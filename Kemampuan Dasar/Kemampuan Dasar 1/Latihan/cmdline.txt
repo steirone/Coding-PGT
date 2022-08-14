@@ -1,0 +1,24 @@
+CD Memperlihatkan nama atau mengganti direktori
+CLS membersihkan layar
+CMD Memulai sesi baru CMD
+COPY salin satu atau banyak file ke tempat lain
+DATE memperlihatkan atau mengatur tanggal
+DEL Menghapus satu atau beberapa file
+DIR memperlihatkan File atau sub direktori di direktori
+DISKPART memperlihatkan atau mengatur disk partisi
+DRIVERQUERY memperlihatkan keadaan terbaru perangkat driver status dan properti
+ERASE menghapus satu atau beberapa files
+EXIT keluar cmd program
+FORMAT format disk untuk windows
+HELP informasi comnmand windows
+LABEL buat,ubah atau hapus volume disk
+MOVE pindahkan satu atau banyak file ke direktori lain
+PROMPT ganti cmd
+RENAME ubah nama file
+REPLACE ganti file
+TIME lihat atau ubah waktu
+TITLE atur judul cmd 
+
+
+
+
